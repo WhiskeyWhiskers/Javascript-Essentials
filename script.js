@@ -9,7 +9,7 @@ function ConstructApple(){
     this.height = 300;
 
 }
-
+# Test comment 
 ConstructApple.prototype = {
 	eat: function(){ return 'eat that apple'; },
 	throw: function(){ return 'THROW IT!'; },
